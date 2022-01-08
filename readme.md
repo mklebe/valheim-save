@@ -1,3 +1,7 @@
 # How to start
-Copy save game to C:\Benutzer\%USERNAME%\AppData\LocalLow\IronGate\Valheim and enjoy
+Copy save game to
+
+C:\Benutzer\%USERNAME%\AppData\LocalLow\IronGate\Valheim\worlds
+
+and enjoy!
 
